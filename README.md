@@ -32,6 +32,7 @@ public class AboutMe {
                 "S3 Bucket",
                 "OracleDB",
                 "PostgreSQL",
+                "MySQL",
                 "MongoDB",
                 "CI/CD"
         );
