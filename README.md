@@ -1,7 +1,7 @@
 <h3 align="left"> Hi there 👋, I'm Luan!</h3>
 
 <h4>
-  <p>Software Engineer Student</p>
+  <p>Software Engineer</p>
 </h4>
 
 <h2  align="center"></h2>
