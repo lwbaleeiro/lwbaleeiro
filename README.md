@@ -2,6 +2,7 @@
 
 <h4>
   <p>Software Engineer</p>
+  <p>Check my blog: https://lwbaleeiro.github.io/lwbaleeiro-dev/</p>
 </h4>
 
 <h2  align="center"></h2>
