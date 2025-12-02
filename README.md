@@ -23,19 +23,20 @@ public class AboutMe {
         this.name = "Luan W. P. Baleeiro";
         this.role = "Backend";
         this.tools = Array.asList(
+                "Java",
+                "Python",
                 "Spring-Boot",
-                "Microservices",
-                "Maven/Gradle",
                 "Docker", 
-                "Feign",
                 "Kafka", 
-                "JUnit",
                 "S3 Bucket",
-                "OracleDB",
                 "PostgreSQL",
                 "MySQL",
                 "MongoDB",
-                "CI/CD"
+                "Git",
+                "Terraform",
+                "CI/CD",
+                "Azure",
+                "AWS"
         );
     }
     
@@ -48,11 +49,11 @@ public class AboutMe {
 <center>
   <table>
     <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwbaleeiro&hide=html&layout=compact&theme=dracula" /></td>
-        <!-- <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=lwbaleeiro&theme=dracula" /></td> -->
+      <td align="center"> <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwbaleeiro&hide=html&layout=compact&theme=dracula" />
+      </td>
     </tr>   
   </table>
-</center>  
+</center>
 
 <hr>
 
