@@ -47,18 +47,6 @@ I currently work with:
 
 ---
 
-## Featured Projects
-
-Here are some of my pinned repositories — a mix of practical tools, learning projects, and experiments.
-
-🔹 **[cross-device-auth](https://github.com/lwbaleeiro/cross-device-auth)** – Cross-device authentication flow demonstration  
-🔹 **[smart-stock-app](https://github.com/lwbaleeiro/smart-stock-app)** – Inventory management with clean architecture  
-🔹 **[eventhub](https://github.com/lwbaleeiro/eventhub)** – Event-driven architecture sample  
-🔹 **[flappy-bird-ai](https://github.com/lwbaleeiro/flappy-bird-ai)** – Neural networks + game simulation experiments  
-🔹 …and more on my profile.
-
----
-
 ## Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lwbaleeiro/)  
